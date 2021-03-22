@@ -5236,30 +5236,30 @@ img {
 
 @media (max-width: 768px) {
 	.banner-section .content-column .title {
-		line-height: 30px;
+		line-height: 30px !important;
 	}
 
 	.banner-section .content-column h1 {
-		line-height: 40px;
+		line-height: 40px !important;
 	}
 
 	.cta-content .title {
-		line-height: 35px;
+		line-height: 35px !important;
 	}
 
 	.cta-content p {
-		margin-bottom: 40px;
+		margin-bottom: 40px !important;
 	}
 
 	.about-column {
-		padding-left: 0px;
+		padding-left: 0px !important;
 	}
 
 	span.txt {
-		line-height: 25px;
+		line-height: 25px !important;
 	}
 
 	.auto-container {
-		padding-bottom: 10px;
+		padding-bottom: 10px !important;
 	}
 }
