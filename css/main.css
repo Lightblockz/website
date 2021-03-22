@@ -5262,4 +5262,8 @@ img {
 	.auto-container {
 		padding-bottom: 10px !important;
 	}
+	.header-logo {
+		width: 170px;
+		margin-top: 5px;
+	}
 }
